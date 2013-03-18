@@ -1,0 +1,10 @@
+PROJECT_NAME		= Magstripe
+PROJECT_NUMBER		= 1.0.0
+FULL_PATH_NAMES		= YES
+STRIP_FROM_PATH  	= .
+OUTPUT_DIRECTORY	= ../../doc/libraries/Magstripe
+INPUT			= ../libraries/Magstripe .
+FILE_PATTERNS		= *.h *.cpp *.ino *.doxygen
+EXCLUDE_FILES		= .git
+EXAMPLE_PATH		= ../magstripe_library_test
+QT_AUTOBRIEF		= YES
