@@ -1,6 +1,0 @@
-PROJECT_NAME		= Magstripe
-PROJECT_NUMBER		=  1.0.0
-OUTPUT_DIRECTORY	= ../../../doc/library/Magstripe
-INPUT			= .
-EXCLUDE_FILES		= .git
-QT_AUTOBRIEF		= YES
