@@ -8,3 +8,4 @@ FILE_PATTERNS		= *.h *.cpp *.ino *.doxygen
 EXCLUDE_FILES		= .git
 EXAMPLE_PATH		= ../magstripe_library_test
 QT_AUTOBRIEF		= YES
+GENERATE_LATEX		= NO
